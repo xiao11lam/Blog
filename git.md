@@ -39,8 +39,10 @@ git push -u origin master
 ```
 
 
-
-
+### Update the status of tracked files
+```sh
+git add -u
+```
 
 
 
